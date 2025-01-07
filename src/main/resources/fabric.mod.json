@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "levelz_releveled",
+	"version": "${version}",
+	"name": "LevelZ ReLeveled",
+	"description": "An overhaul of the progression in LevelZ.",
+	"authors": [
+		"Dronico"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": ""
+	},
+	"license": "MIT",
+	"icon": "assets/levelz_releveled/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.dronico.levelz_releveled.LevelZ_ReLeveled"
+		],
+		"client": [
+			"net.dronico.levelz_releveled.LevelZ_ReLeveledClient"
+		],
+		"fabric-datagen": [
+			"net.dronico.levelz_releveled.LevelZ_ReLeveledDataGenerator"
+		]
+	},
+	"mixins": [
+		"levelz_releveled.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

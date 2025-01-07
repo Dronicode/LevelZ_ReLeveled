@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "skill": "mining",
+    "level": 18,
+    "block": [
+        "minecraft:deepslate_diamond_ore",
+        "minecraft:enchanting_table",
+        "minecraft:end_rod",
+        "minecraft:ender_chest",
+        "minecraft:obsidian"
+    ]
+}

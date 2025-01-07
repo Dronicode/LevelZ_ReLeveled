@@ -1,0 +1,22 @@
+{
+    "replace": false,
+    "skill": "smithing",
+    "level": 13,
+    "item": [
+        "minecraft:brewing_stand",
+        "minecraft:clock",
+        "minecraft:gold_block",
+        "minecraft:gold_ingot",
+        "minecraft:gold_nugget",
+        "minecraft:golden_axe",
+        "minecraft:golden_hoe",
+        "minecraft:golden_pickaxe",
+        "minecraft:golden_shovel",
+        "minecraft:golden_sword",
+        "minecraft:light_weighted_pressure_plate",
+        "minecraft:polished_basalt",
+        "minecraft:powered_rail",
+        "minecraft:raw_gold",
+        "minecraft:raw_gold_block"
+    ]
+}

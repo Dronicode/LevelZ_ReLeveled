@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "skill": "smithing",
+    "level": 9,
+    "item": [
+        "minecraft:lapis_block",
+        "minecraft:lapis_lazuli"
+    ]
+}

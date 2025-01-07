@@ -1,0 +1,30 @@
+{
+    "replace": false,
+    "skill": "smithing",
+    "level": 4,
+    "item": [
+        "minecraft:andesite",
+        "minecraft:andesite_slab",
+        "minecraft:andesite_stairs",
+        "minecraft:andesite_wall",
+        "minecraft:coal",
+        "minecraft:coal_block",
+        "minecraft:diorite",
+        "minecraft:diorite_slab",
+        "minecraft:diorite_stairs",
+        "minecraft:diorite_wall",
+        "minecraft:granite",
+        "minecraft:granite_slab",
+        "minecraft:granite_stairs",
+        "minecraft:granite_wall",
+        "minecraft:polished_andesite",
+        "minecraft:polished_andesite_slab",
+        "minecraft:polished_andesite_stairs",
+        "minecraft:polished_diorite",
+        "minecraft:polished_diorite_slab",
+        "minecraft:polished_diorite_stairs",
+        "minecraft:polished_granite",
+        "minecraft:polished_granite_slab",
+        "minecraft:polished_granite_stairs"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "skill": "smithing",
+    "level": 12,
+    "item": [
+        "minecraft:emerald",
+        "minecraft:emerald_block",
+        "minecraft:firework_rocket",
+        "minecraft:firework_star",
+        "minecraft:soul_campfire",
+        "minecraft:soul_lantern",
+        "minecraft:soul_torch"
+    ]
+}

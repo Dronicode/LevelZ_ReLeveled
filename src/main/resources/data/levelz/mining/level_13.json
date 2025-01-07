@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "skill": "mining",
+    "level": 13,
+    "block": [
+        "minecraft:basalt",
+        "minecraft:bell",
+        "minecraft:brewing_stand",
+        "minecraft:gold_block",
+        "minecraft:gold_ore",
+        "minecraft:light_weighted_pressure_plate",
+        "minecraft:polished_basalt",
+        "minecraft:powered_rail",
+        "minecraft:raw_gold_block",
+        "minecraft:smooth_basalt"
+    ]
+}

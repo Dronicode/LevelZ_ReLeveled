@@ -1,0 +1,21 @@
+    {
+    "replace": false,
+    "skill": "smithing",
+    "level": 14,
+    "item": [
+        "minecraft:chiseled_quartz_block",
+        "minecraft:comparator",
+        "minecraft:daylight_detector",
+        "minecraft:ender_eye",
+        "minecraft:fire_charge",
+        "minecraft:magma_block",
+        "minecraft:observer",
+        "minecraft:quartz_block",
+        "minecraft:quartz_bricks",
+        "minecraft:quartz_pillar",
+        "minecraft:quartz_slab",
+        "minecraft:quartz_stairs",
+        "minecraft:smooth_quartz_slab",
+        "minecraft:smooth_quartz_stairs"
+    ]
+}

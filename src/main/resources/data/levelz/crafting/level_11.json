@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "skill": "smithing",
+    "level": 11,
+    "item": [
+        "minecraft:amethyst_block",
+        "minecraft:blast_furnace"
+    ]
+}

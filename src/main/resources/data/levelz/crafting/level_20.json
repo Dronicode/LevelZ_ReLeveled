@@ -1,0 +1,19 @@
+{
+    "replace": false,
+    "skill": "smithing",
+    "level": 20,
+    "item": [
+        "minecraft:beacon",
+        "minecraft:conduit",
+        "minecraft:end_crystal",
+        "minecraft:lodestone",
+        "minecraft:netherite_axe",
+        "minecraft:netherite_block",
+        "minecraft:netherite_hoe",
+        "minecraft:netherite_ingot",
+        "minecraft:netherite_pickaxe",
+        "minecraft:netherite_shovel",
+        "minecraft:netherite_sword",
+        "minecraft:netherite_upgrade_smithing_template"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "replace": false,
+    "skill": "mining",
+    "level": 16,
+    "block": [
+        "minecraft:deepslate_coal_ore",
+        "minecraft:deepslate_copper_ore",
+        "minecraft:deepslate_emerald_ore",
+        "minecraft:deepslate_gold_ore",
+        "minecraft:deepslate_iron_ore",
+        "minecraft:deepslate_lapis_ore",
+        "minecraft:deepslate_redstone_ore",
+        "minecraft:reinforced_deepslate",
+        "minecraft:smithing_table"
+    ]
+}

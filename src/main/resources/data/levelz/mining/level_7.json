@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "skill": "mining",
+    "level": 7,
+    "block": [
+        "minecraft:comparator",
+        "minecraft:dispenser",
+        "minecraft:dropper",
+        "minecraft:note_block",
+        "minecraft:redstone_block",
+        "minecraft:redstone_lamp",
+        "minecraft:redstone_ore",
+        "minecraft:repeater",
+        "minecraft:slime_block",
+        "minecraft:target"
+    ]
+}

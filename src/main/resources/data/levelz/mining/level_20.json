@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "skill": "mining",
+    "level": 20,
+    "block": [
+        "minecraft:ancient_debris",
+        "minecraft:beacon",
+        "minecraft:conduit",
+        "minecraft:lodestone",
+        "minecraft:netherite_block"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "skill": "mining",
+    "level": 12,
+    "block": [
+        "minecraft:emerald_block",
+        "minecraft:emerald_ore",
+        "minecraft:soul_sand",
+        "minecraft:soul_soil"
+    ]
+}
